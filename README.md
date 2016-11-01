@@ -3,7 +3,4 @@ Lia Blog
 
 A starter website.
 
-Based on the layout examples using [Pure CSS][pure].
-
-[pure]: http://purecss.io/
-[pure-site]: https://github.com/yahoo/pure-site
+Screw Pure, always best to roll your own unless you are **sure** a library is perfect. Most of that stuff is just for people who are scared of CSS.
